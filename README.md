@@ -1,21 +1,9 @@
-# Hi there 👋
+## Hi there 👋
 
-I'm a full-stack JavaScript developer with a background in Business Analytics.
+I'm a full-stack JavaScript developer with a background in Business Analytics. I enjoy turning ideas into interactive digital products and solving real-world problems with code. Recently I’ve been building projects through the Northcoders bootcamp, focusing on writing clear, testable code and developing full-stack applications using JavaScript, React, Node.js, and PostgreSQL.
 
-I enjoy turning ideas into interactive digital products and solving real-world problems with code.
+Right now I'm working on improving my full-stack development skills by building small projects and learning from other developers on GitHub. I'm particularly interested in how thoughtful product design and good engineering practices come together to create useful tools for people.
 
-## 🚀 What I'm Working On
-Currently building projects from the Northcoders bootcamp including full-stack applications and backend APIs.
+I'm always happy to connect, collaborate, or talk about coding, product ideas, or learning in tech. 
 
-## 🛠 Tech Stack
-JavaScript | Node.js | React | PostgreSQL | Python | SQL
-
-## 🌱 Currently Learning
-Improving my full-stack development skills and writing clean, testable code.
-
-## 📌 Featured Projects
-NC News – Full Stack News Platform  
-Mars Rover – Algorithm challenge project
-
-## ☕ Fun fact
-Turning coffee and curiosity into code.
+⚡ Fun fact: turning coffee and curiosity into code.
