@@ -10,7 +10,7 @@ Alongside development, my background in analytics means I enjoy working with dat
 
 Currently I’m continuing to build projects, improve my full-stack skills, and learn from other developers here on GitHub. I’m always happy to connect, collaborate, or talk about interesting ideas in tech.
 
-Tech I work with:  
+## Tech I work with:  
 JavaScript • React • ReactNative • Node.js • Express • PostgreSQL • SQL • Python • R • HTML • CSS
 
 Fun fact: I enjoy squash, martial arts, playing piano and figure skating. 
