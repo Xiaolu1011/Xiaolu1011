@@ -13,4 +13,4 @@ Currently I’m continuing to build projects, improve my full-stack skills, and 
 ### Tech I work with:  
 JavaScript • React • ReactNative • Node.js • Express • PostgreSQL • SQL • Python • R • HTML • CSS
 
-Fun fact: I enjoy squash, martial arts, playing piano and figure skating. 
+Interests: I enjoy squash, martial arts, playing piano and figure skating. 
