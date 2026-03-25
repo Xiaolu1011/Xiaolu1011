@@ -6,7 +6,7 @@ Recently I am completing the Northcoders Enterprise Engineer bootcamp, where I b
 
 One of my recent projects is **NC News**, a full-stack news platform where users can browse articles, vote, and interact through comments. The frontend is built with React and deployed on Netlify, while the backend REST API is built with Node.js, Express, and PostgreSQL and hosted on Render.
 
-Alongside development, my background in analytics means I enjoy working with data as well. I’ve worked on projects involving basic machine learning, financial analytics, and data visualisation using Python, R, SQL, and Tableau.
+Alongside development, my background in analytics means I enjoy working with data as well. I’ve worked on projects involving basic machine learning, financial analytics, optimisation model, and data visualisation using Python, R, SQL, and Tableau.
 
 Currently I’m continuing to build projects, improve my full-stack skills, and learn from other developers here on GitHub. I’m always happy to connect, collaborate, or talk about interesting ideas in tech.
 
